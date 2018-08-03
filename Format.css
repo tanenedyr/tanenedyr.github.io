@@ -1,0 +1,56 @@
+p {
+	
+}
+
+h1 {
+	
+}
+
+h2 {
+	
+}
+
+h3 {
+	
+}
+
+h4 {
+	
+}
+
+h5 {
+	
+}
+
+h6 {
+	
+}
+
+#general {
+	background-color: lightgrey;
+}
+
+#welcome {
+	text-align: center;
+} 
+
+#infoBox {
+	float: right;
+	border-style: solid;
+	border: 5px;
+}
+
+#list {
+	width: 440px;
+	float: left;
+	margin-right: 15px;
+}
+
+#floatLeft {
+	float: left;
+}
+
+#info {
+	width: 600px;
+	float: left;
+}
